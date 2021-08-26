@@ -16,7 +16,7 @@ Estrutura de pastas:
 
 ## Tarefa 1 sobre APIs de acesso
 
-> ![parte1](lab01/lab01-api.ipynb)
+> ![parte1](lab01-api.ipynb)
 
 ## Tarefa 2 sobre Engenharia Reversa
 > Coloque a imagem do PNG do seu diagrama como ilustrado abaixo (a imagem estará na pasta `image`):
