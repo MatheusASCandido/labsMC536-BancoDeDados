@@ -15,6 +15,6 @@ Estrutura de pastas:
 
 ## Tarefa sobre modelos logicos
 
-> [Lab 2](lab02-logic-model-dbpedia-241640.ipynb)
+> [Lab 2](lab2-logic-model-dbpedia-241640.ipynb)
 
 
