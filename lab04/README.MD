@@ -1,4 +1,4 @@
-# Modelo para Apresentação do Lab04 - SQL Avançado (NHANES e Taxonomia)
+# Lab04 - SQL Avançado (NHANES e Taxonomia)
 
 Estrutura de pastas:
 
