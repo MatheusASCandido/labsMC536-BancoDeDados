@@ -27,4 +27,7 @@ Escreva em Cypher uma consulta que retorne os marcadores da categoria `Serviços
 
 ### Resolução
 ~~~cypher
+MATCH(m)
+WHERE (m)-[:Pertence]->()-[:Superior*1..]->({id: 'Serviços'}) OR (m)-[:Pertence]->({id: 'Serviços'})
+RETURN  DISTINCT m
 ~~~
