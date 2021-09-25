@@ -4,8 +4,7 @@ Estrutura de pastas:
 
 ~~~
 ├── README.md  <- arquivo apresentando a tarefa
-│
-└── images     <- arquivos de imagem usados na tarefa (se houver)
+
 ~~~
 
 # Aluno
@@ -18,16 +17,16 @@ Estrutura de pastas:
 | referência | `Bertoni,A.,Lemos,R. *Três Datasets criados a partir de um banco de Canções Populares Brasileiras de Sucesso e Não-Sucesso de 2014 a 2019*, SBBD (2021).` |
 | link       | `https://drive.google.com/file/d/1-uZG7J4yafFAHvM7QlZDoWoemMTq3VQB/view` |
 | dataset | `https://github.com/tocaestudio/SBBD-2021/` |
-| formato | `<formato em que os arquivos são disponibilizados>` |
+| formato | `csv` |
 
 ## Resumo
 
-> Resumo do artigo com as suas palavras (não deve ser copiado total ou parcialmente o resumo do artigo).
+O artigo retrata sobre a criação de três datasets obtidos através da análise de musicas populares brasileiras. Como relatado no artigo, foi utilizado a ferramenta ConectMix para coletar as músicas mais tocadas nas radios brasileiras. Com isso, tem-se um primeiro dataset com metade dos dados sendo as musicas mais tocadas entre 2014 e 2019 e a outra metade como sendo as musicas não populares, descritas como sendo aquelas que não tinha-se registro na mais tocadas das radios, mas que eram dos mesmos artistas da mais tocadas e do mesmo periodo de tempo. Além disso, tem-se um dataset que analisa a melodia vocalica dessas musica e um ultimo com as notas desses arranjos.
 
 ## Perguntas de pesquisa/análises
 
-> Escreva de forma resumida que perguntas de pesquisa/análises podem ser feitas com o dataset.
+Podemos analisar qual o comportamento melodico das musicas de maior sucesso em território nacional, aém de entender a sua composição musical e os tipos de acordes e frequências utilizados.
 
 ## Trabalhos relacionados
 
-> Relacione outras iniciativas relacionadas com a do artigo que tenham sido mencionadas no mesmo.
+Como dito no artigo, esse campo de pesquisa do dataset é pouco explorado por enquanto, mas abre a possibilidade para novos estudos e datasets que analisem outros artefatos musicais nesse mesmo sentido.
