@@ -9,7 +9,7 @@ Estrutura de pastas:
 ~~~
 
 # Aluno
-* `RA 251640`: `Matheus Augusto da Silva Cândido`
+* `RA 241640`: `Matheus Augusto da Silva Cândido`
 
 ## Modelo Lógico do Banco de Dados de Grafos
 
