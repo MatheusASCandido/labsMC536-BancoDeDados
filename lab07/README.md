@@ -13,7 +13,7 @@ Estrutura de pastas:
 
 ## Modelo Lógico do Banco de Dados de Grafos
 
-> ![Diagrama de Orquestração](images/modelo-logico-grafos.png)
+> ![Diagrama de Orquestração](images/modelo-logico-grafos.PNG)
 
 ## Perguntas de Pesquisa/análise
 
