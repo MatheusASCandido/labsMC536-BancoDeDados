@@ -1,4 +1,4 @@
-# Modelo para Apresentação do Lab07 - Modelo Lógico para Banco de Dados de Grafos
+# Lab07 - Modelo Lógico para Banco de Dados de Grafos
 
 Estrutura de pastas:
 
@@ -9,17 +9,15 @@ Estrutura de pastas:
 ~~~
 
 # Aluno
-* `RA`: `<nome completo>`
+* `RA 251640`: `Matheus Augusto da Silva Cândido`
 
 ## Modelo Lógico do Banco de Dados de Grafos
-> Utilize este [modelo de base](https://docs.google.com/presentation/d/10RN7bDKUka_Ro2_41WyEE76Wxm4AioiJOrsh6BRY3Kk/edit?usp=sharing) para construir o seu.
-> Coloque a imagem do PNG do seu modelo lógico como ilustrado abaixo (a imagem estará na pasta `image`):
->
+
 > ![Diagrama de Orquestração](images/modelo-logico-grafos.png)
 
 ## Perguntas de Pesquisa/análise
 
 > Liste aqui as três perguntas de pesquisa/análise
-> * Pergunta 1
-> * Pergunta 2
-> * Pergunta 3
+> * Pergunta 1: Qual a relação entre o herói utilizado e o desempenho de um jogador?
+> * Pergunta 2: Possivel média de tempo de cada partida para um bom desempenho de um jogador
+> * Pergunta 3: Relação entre os itens adquiridos na partida e a performance
